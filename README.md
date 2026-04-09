@@ -11,8 +11,10 @@ Each folder contains:
 | Day | Problem | Status |
 |-----|--------|--------|
 | Day 01 | Search in Descending Order | ✅ |
-| Day 02 |  Maximum Count of Positive Integer and Negative Integer | ✅ |
-| Day 03 | Coming Soon | ⏳ |
+| Day 02 | Maximum Count of Positive Integer and Negative Integer | ✅ |
+| Day 03 | Search in a Sorted and Rotated Array | ✅ |
+| Day 04 | Coming Soon | ⏳ |
+| Day 05 | Coming Soon | ⏳ |
 
 ---
 
