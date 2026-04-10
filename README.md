@@ -13,7 +13,7 @@ Each folder contains:
 | Day 01 | Search in Descending Order | ✅ |
 | Day 02 | Maximum Count of Positive Integer and Negative Integer | ✅ |
 | Day 03 | Search in a Sorted and Rotated Array | ✅ |
-| Day 04 | Coming Soon | ⏳ |
+| Day 04 |  Move Zeroes| ✅ |
 | Day 05 | Coming Soon | ⏳ |
 
 ---
