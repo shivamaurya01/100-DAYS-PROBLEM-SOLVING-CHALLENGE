@@ -14,7 +14,10 @@ Each folder contains:
 | Day 02 | Maximum Count of Positive Integer and Negative Integer | ✅ |
 | Day 03 | Search in a Sorted and Rotated Array | ✅ |
 | Day 04 |  Move Zeroes| ✅ |
-| Day 05 | Coming Soon | ⏳ |
+| Day 05 | Sort Array By Parity| ✅ |
+| Day 06 | Coming Soon | ⏳ |
+| Day 07 | Coming Soon | ⏳ |
+| Day 08 | Coming Soon | ⏳ |
 
 ---
 
