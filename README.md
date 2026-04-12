@@ -15,7 +15,7 @@ Each folder contains:
 | Day 03 | Search in a Sorted and Rotated Array | ✅ |
 | Day 04 |  Move Zeroes| ✅ |
 | Day 05 | Sort Array By Parity| ✅ |
-| Day 06 | Coming Soon | ⏳ |
+| Day 06 | Find First and Last Position of Element in Sorted Array| ✅ |
 | Day 07 | Coming Soon | ⏳ |
 | Day 08 | Coming Soon | ⏳ |
 
