@@ -18,7 +18,7 @@ Each folder contains:
 | Day 06 | Find First and Last Position of Element in Sorted Array| ✅ |
 | Day 07 | Search Insert Position | ✅ |
 | Day 08 | Sqrt(x) |  ✅ |
-| Day 09 | Coming Soon | ⏳ |
+| Day 09 | Search in Rotated Sorted Array | ✅ |
 | Day 10 | Coming Soon | ⏳ |
 | Day 11 | Coming Soon | ⏳ |
 
