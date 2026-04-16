@@ -19,8 +19,9 @@ Each folder contains:
 | Day 07 | Search Insert Position | ✅ |
 | Day 08 | Sqrt(x) |  ✅ |
 | Day 09 | Search in Rotated Sorted Array | ✅ |
-| Day 10 | Coming Soon | ⏳ |
+| Day 10 | Two Sum | ✅ |
 | Day 11 | Coming Soon | ⏳ |
+| Day 12 | Coming Soon | ⏳ |
 
 ---
 
