@@ -20,7 +20,7 @@ Each folder contains:
 | Day 08 | Sqrt(x) |  ✅ |
 | Day 09 | Search in Rotated Sorted Array | ✅ |
 | Day 10 | Two Sum | ✅ |
-| Day 11 | Coming Soon | ⏳ |
+| Day 11 | Reverse String | ✅ |
 | Day 12 | Coming Soon | ⏳ |
 
 ---
