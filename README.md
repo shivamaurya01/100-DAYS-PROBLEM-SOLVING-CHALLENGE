@@ -22,7 +22,7 @@ Each folder contains:
 | Day 10 | Two Sum | ✅ |
 | Day 11 | Reverse String | ✅ |
 | Day 12 | Pattern Printing | ✅ |
-| Day 12 | Coming Soon | ⏳ |
+| Day 13 | Ugly Number| ✅ |
 | Day 12 | Coming Soon | ⏳ |
 
 ---
