@@ -23,7 +23,9 @@ Each folder contains:
 | Day 11 | Reverse String | ✅ |
 | Day 12 | Pattern Printing | ✅ |
 | Day 13 | Ugly Number| ✅ |
-| Day 12 | Coming Soon | ⏳ |
+| Day 14 | Find the even digit | ✅ |
+| Day 15 | Coming Soon | ⏳ |
+| Day 16 | Coming Soon | ⏳ |
 
 ---
 
