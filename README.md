@@ -24,7 +24,7 @@ Each folder contains:
 | Day 12 | Pattern Printing | ✅ |
 | Day 13 | Ugly Number| ✅ |
 | Day 14 | Find the even digit | ✅ |
-| Day 15 | Coming Soon | ⏳ |
+| Day 15 | Kth Largest Element | ✅ |
 | Day 16 | Coming Soon | ⏳ |
 
 ---
