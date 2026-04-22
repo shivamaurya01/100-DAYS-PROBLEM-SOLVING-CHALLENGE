@@ -25,7 +25,10 @@ Each folder contains:
 | Day 13 | Ugly Number| ✅ |
 | Day 14 | Find the even digit | ✅ |
 | Day 15 | Kth Largest Element | ✅ |
-| Day 16 | Coming Soon | ⏳ |
+| Day 16 | Palindrome Number | ✅ |
+| Day 17 | Coming Soon | ⏳ |
+| Day 18 | Coming Soon | ⏳ |
+| Day 19 | Coming Soon | ⏳ |
 
 ---
 
