@@ -27,7 +27,7 @@ Each folder contains:
 | Day 15 | Kth Largest Element | ✅ |
 | Day 16 | Palindrome Number | ✅ |
 | Day 17 | Check Sorted Array | ✅ |
-| Day 18 | Coming Soon | ⏳ |
+| Day 18 | Maximum Ones | ✅ |
 | Day 19 | Coming Soon | ⏳ |
 
 ---
