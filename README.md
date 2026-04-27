@@ -30,7 +30,7 @@ Each folder contains:
 | Day 18 | Maximum Ones | ✅ |
 | Day 19 | Print n to 1 without loop | ✅ |
 | Day 20 | Reverse Array | ✅ |
-| Day 21 | Coming Soon | ⏳ |
+| Day 21 | Distinct Number | ✅ |
 
 ---
 
